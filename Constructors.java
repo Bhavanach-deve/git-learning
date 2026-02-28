@@ -30,7 +30,7 @@ public class Constructors {
 
     public static void main(String[] args)
     {
-        Construct c=new Construct(20);
-        c.disp();
+        Construct c=new Construct(20);//Object creation/Object instantiation
+        c.disp();//giving a call to method present in the class.
     }
 }
