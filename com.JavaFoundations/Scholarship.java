@@ -27,7 +27,7 @@ class Merit
     void eligible()
     {
         if(cgpa>7.5){
-            System.out.println("Congratulations your are eligible for Merit Scholarship");
+            System.out.println("Congratulations your are eligible for Merit Scholarship!");
         }
         else{
             System.out.println("Work more hard buddy! Wish you all the best. Hope you grab the scholarship next-time!");
