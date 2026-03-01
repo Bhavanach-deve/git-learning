@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264e99aa-0135-4b2d-a4cb-ad256a81aa34" name="Changes" comment="" />
+    <list default="true" id="264e99aa-0135-4b2d-a4cb-ad256a81aa34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/com.JavaFoundations/Scholarship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gitkey/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,12 +48,26 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev-journey",
-    "last_opened_file_path": "C:/Users/bhava/Desktop/Gitkey"
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.main.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bhava/Desktop/Gitkey",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NoObjectCreation">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhava\Desktop\Gitkey\com.JavaFoundations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhava\Desktop\Gitkey\com.JavaFoundations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.main">
     <configuration name="ConSetGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConSetGet" />
       <module name="Gitkey" />
@@ -84,15 +103,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main class" />
+      <module name="Gitkey" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Gitkey" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConSetGet" />
+      <item itemvalue="Application.Constructors" />
+      <item itemvalue="Application.NoObjectCreation" />
+      <item itemvalue="Application.Pattern7" />
+      <item itemvalue="Application.Signin" />
+      <item itemvalue="Spring Boot.main" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Signin" />
         <item itemvalue="Application.NoObjectCreation" />
         <item itemvalue="Application.ConSetGet" />
         <item itemvalue="Application.Constructors" />
-        <item itemvalue="Application.Signin" />
         <item itemvalue="Application.Pattern7" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -101,17 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772177819131</updated>
+      <workItem from="1772281870468" duration="2480000" />
+      <workItem from="1772345720735" duration="3717000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Signin.java</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
